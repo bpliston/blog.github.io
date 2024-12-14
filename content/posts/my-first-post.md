@@ -1,9 +1,7 @@
 +++
-date = '2024-12-14T15:24:15-05:00'
+date = '2024-12-14T16:37:02-05:00'
 draft = true
-title = 'Hello World'
+title = 'My First Post'
 +++
 
-## Hello World
-
-This is my first post.
+Hello world

@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Brian Liston</title>
-    <link>http://localhost:1313/</link>
+    <link>https://brianliston.com/</link>
     <description>Recent content in About on Brian Liston</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Dec 2024 16:37:02 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brianliston.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>https://brianliston.com/posts/my-second-post/</link>
+      <pubDate>Sat, 14 Dec 2024 16:37:02 -0500</pubDate>
+      <guid>https://brianliston.com/posts/my-second-post/</guid>
+      <description>&lt;p&gt;Hello world&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sat, 14 Dec 2024 16:37:02 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <link>https://brianliston.com/posts/my-first-post/</link>
+      <pubDate>Thu, 14 Nov 2024 16:37:02 -0500</pubDate>
+      <guid>https://brianliston.com/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hello world&lt;/p&gt;</description>
     </item>
   </channel>

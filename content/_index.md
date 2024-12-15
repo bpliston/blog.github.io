@@ -2,7 +2,7 @@
 menus:
 - main
 - footer
-title: Home
+title: About
 ---
 
 # Brian Liston
